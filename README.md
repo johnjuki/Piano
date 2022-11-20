@@ -1,3 +1,3 @@
 # Piano
 
-Learning responsive Design to code a piano.
+Learning responsive Design by coding a piano.
